@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello World!\n"; 
 	std::cout << "commit 09-10 20:22";
 	//안녕
+	//안녕하세요!
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
